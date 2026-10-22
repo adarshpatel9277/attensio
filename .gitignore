@@ -1,0 +1,22 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+hs_err_*.log
+replay_*.log
+.env*
+!.env.example
+.idea/
+*.iml
+
+# Android build outputs
+.gradle/
+android/.gradle/
+android/build/
+android/app/build/
+android/.idea/
+android/captures/
+android/gradleBuild/
+android/local.properties

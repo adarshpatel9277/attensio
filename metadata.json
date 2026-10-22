@@ -1,0 +1,8 @@
+{
+  "name": "Student Attendance Tracker",
+  "description": "Simple offline-first day-wise student attendance tracker with daily check-in, interactive calendar, attendance history, and goal forecasting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

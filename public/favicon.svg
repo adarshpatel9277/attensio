@@ -1,0 +1,27 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sat_grad_main" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF4F81" />
+      <stop offset="55%" stop-color="#FF2E63" />
+      <stop offset="100%" stop-color="#E11D48" />
+    </linearGradient>
+    <linearGradient id="sat_grad_check" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#FFF0F5" />
+    </linearGradient>
+  </defs>
+
+  <rect x="6" y="6" width="52" height="52" rx="14" fill="url(#sat_grad_main)" />
+  <rect x="6.5" y="6.5" width="51" height="51" rx="13.5" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="1" />
+
+  <rect x="19" y="9" width="4.5" height="6" rx="2" fill="#FFFFFF" fill-opacity="0.9" />
+  <rect x="40.5" y="9" width="4.5" height="6" rx="2" fill="#FFFFFF" fill-opacity="0.9" />
+  <line x1="14" y1="23.5" x2="50" y2="23.5" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1.8" stroke-linecap="round" />
+
+  <circle cx="21" cy="31" r="2.2" fill="#FFFFFF" fill-opacity="0.5" />
+  <circle cx="32" cy="31" r="2.2" fill="#FFFFFF" fill-opacity="0.5" />
+  <circle cx="43" cy="31" r="2.2" fill="#FFFFFF" fill-opacity="0.5" />
+
+  <path d="M20 41 L28 49 L46 31" stroke="url(#sat_grad_check)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="47" cy="17" r="2.5" fill="#FBBF24" />
+</svg>

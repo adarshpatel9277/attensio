@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF4F81</color>
+    <color name="primary_variant">#E03366</color>
+    <color name="background">#F5F9FC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="status_bar_color">#F5F9FC</color>
+    <color name="ic_launcher_background">#18181B</color>
+</resources>
